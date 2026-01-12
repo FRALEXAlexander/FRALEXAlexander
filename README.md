@@ -6,7 +6,7 @@ Fullstack Web Dev
 
 * 🌍  I'm based in Austria
 * 🖥️  See my portfolio at [fralex.at](http://fralex.at)
-* 🚀  I'm currently working on [Hybrid Mining](http://hybrid-mining.com)
+* 🚀  I'm currently working on [Austrian Streamers](http://austrianstreamers.at/in/fralexalexander)
 
 ### Skills
 
